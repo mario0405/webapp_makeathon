@@ -1,20 +1,32 @@
 import json
 import os
+from pathlib import Path
 
 # --- Global cache for our Knowledge Base ---
 # We load the tree once to make searches fast
 MATERIAL_TREE = None
 
 def load_material_tree():
-    """Loads the JSON tree from disk into memory."""
+    """Loads the JSON tree from disk into memory.
+
+    Resolves the JSON path relative to this file to avoid
+    issues when the process working directory differs.
+    """
     global MATERIAL_TREE
     if MATERIAL_TREE is None:
-        json_filename = 'material_tree.json'
-        if not os.path.exists(json_filename):
-            print(f"FATAL ERROR: '{json_filename}' not found.")
+        base_dir = Path(__file__).resolve().parent
+        # Prefer the file next to this module
+        json_path = base_dir / 'material_tree.json'
+        # Fallback to CWD if not found (legacy behavior)
+        if not json_path.exists():
+            alt = Path('material_tree.json')
+            if alt.exists():
+                json_path = alt
+        if not json_path.exists():
+            print("FATAL ERROR: 'material_tree.json' not found.")
             return None
-        
-        with open(json_filename, 'r', encoding='utf-8') as f:
+
+        with json_path.open('r', encoding='utf-8') as f:
             MATERIAL_TREE = json.load(f)
         print("--- Material Knowledge Base loaded successfully. ---")
     return MATERIAL_TREE
