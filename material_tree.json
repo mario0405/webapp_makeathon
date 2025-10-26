@@ -1,0 +1,2598 @@
+[
+  {
+    "name": "Beläge",
+    "children": [
+      {
+        "name": "Asphaltbeläge",
+        "children": [
+          {
+            "name": "Walzasphalt",
+            "children": [
+              {
+                "name": "Asphaltbeton AC",
+                "children": [
+                  {
+                    "name": "AC L",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse TP",
+                        "children": [
+                          {
+                            "name": "AC 4 L",
+                            "children": [
+                              {
+                                "name": "ohne Einstreu",
+                                "children": [
+                                  {
+                                    "name": "schwarz",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Color",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "mit Einstreu",
+                                "children": [
+                                  {
+                                    "name": "schwarz",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Color",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "AC 8 L",
+                            "children": []
+                          },
+                          {
+                            "name": "AC 11 L",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T1",
+                        "children": []
+                      },
+                      {
+                        "name": "Verkehrslastklasse T2",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "AC N",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse TP",
+                        "children": [
+                          {
+                            "name": "AC 8 N",
+                            "children": []
+                          },
+                          {
+                            "name": "AC 11 N",
+                            "children": []
+                          },
+                          {
+                            "name": "AC 16 N",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T1",
+                        "children": []
+                      },
+                      {
+                        "name": "Verkehrslastklasse T2",
+                        "children": []
+                      },
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "AC S",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": [
+                          {
+                            "name": "AC 8 S",
+                            "children": []
+                          },
+                          {
+                            "name": "AC 11 S",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T4",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "AC MR",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Splittmastixasphalt",
+                "children": [
+                  {
+                    "name": "SMA",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": [
+                          {
+                            "name": "SMA 8",
+                            "children": [
+                              {
+                                "name": "ohne Einstreu",
+                                "children": [
+                                  {
+                                    "name": "schwarz",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Color",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "mit Einstreu",
+                                "children": [
+                                  {
+                                    "name": "schwarz",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Color",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "SMA 11",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T4",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "offenporiger Asphalt",
+                "children": [
+                  {
+                    "name": "PA",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse TP",
+                        "children": [
+                          {
+                            "name": "PA 8",
+                            "children": [
+                              {
+                                "name": "schwarz",
+                                "children": [
+                                  {
+                                    "name": "Standard Gerüstkorn",
+                                    "children": [
+                                      {
+                                        "name": "ohne Oberflächenbearbeitung",
+                                        "children": [
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Color",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "PA 11",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T1",
+                        "children": []
+                      },
+                      {
+                        "name": "Verkehrslastklasse T2",
+                        "children": []
+                      },
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Gussasphalt",
+            "children": [
+              {
+                "name": "MA",
+                "children": [
+                  {
+                    "name": "Verkehrslastklasse T1",
+                    "children": [
+                      {
+                        "name": "MA 4 N",
+                        "children": [
+                          {
+                            "name": "ohne Einstreu",
+                            "children": [
+                              {
+                                "name": "schwarz",
+                                "children": [
+                                  {
+                                    "name": "Standard Gerüstkorn",
+                                    "children": [
+                                      {
+                                        "name": "ohne Oberflächenbearbeitung",
+                                        "children": [
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "mit Einstreu",
+                                "children": [
+                                  {
+                                    "name": "schwarz",
+                                    "children": [
+                                      {
+                                        "name": "Standard Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "sepzielles Gerüstkorn",
+                                        "children": [
+                                          {
+                                            "name": "ohne Oberflächenbearbeitung",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "mit Oberflächenbearbeitung",
+                                            "children": [
+                                              {
+                                                "name": "gestrahlt",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "Geschliffen",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gegrindet",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "MA 8 N",
+                        "children": []
+                      },
+                      {
+                        "name": "MA 11 N",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Verkehrslastklasse T2",
+                    "children": [
+                      {
+                        "name": "MA 4 N",
+                        "children": []
+                      },
+                      {
+                        "name": "MA 8 N",
+                        "children": []
+                      },
+                      {
+                        "name": "MA 11 N",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Verkehrslastklasse T3",
+                    "children": [
+                      {
+                        "name": "MA 8 S",
+                        "children": []
+                      },
+                      {
+                        "name": "MA 11 S",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Betonbeläge",
+        "children": [
+          {
+            "name": "einschichtig",
+            "children": [
+              {
+                "name": "Verkehrslastklasse T1",
+                "children": [
+                  {
+                    "name": "0/8",
+                    "children": [
+                      {
+                        "name": "geschliffen",
+                        "children": [
+                          {
+                            "name": "besenstrich",
+                            "children": []
+                          },
+                          {
+                            "name": "gestrahlt",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "0/16",
+                        "children": []
+                      },
+                      {
+                        "name": "0/32",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Verkehrslastklasse T2",
+                    "children": []
+                  },
+                  {
+                    "name": "Verkehrslastklasse T3",
+                    "children": []
+                  },
+                  {
+                    "name": "Verkehrslastklasse T4",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "zweischichtig",
+            "children": [
+              {
+                "name": "Hartbeton",
+                "children": [
+                  {
+                    "name": "Verkehrslastklasse T1",
+                    "children": [
+                      {
+                        "name": "0/2",
+                        "children": [
+                          {
+                            "name": "Standard",
+                            "children": [
+                              {
+                                "name": "geschliffen",
+                                "children": [
+                                  {
+                                    "name": "abgesäuert",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Versiegelung",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "besenstrich",
+                                "children": []
+                              },
+                              {
+                                "name": "gestrahlt",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "besondere Körnungen",
+                            "children": [
+                              {
+                                "name": "geschliffen",
+                                "children": []
+                              },
+                              {
+                                "name": "besenstrich",
+                                "children": []
+                              },
+                              {
+                                "name": "gestrahlt",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Plattenbeläge",
+        "children": [
+          {
+            "name": "Natursteinplatten",
+            "children": [
+              {
+                "name": "Ungebundene Bauweise",
+                "children": [
+                  {
+                    "name": "Fugenbild",
+                    "children": [
+                      {
+                        "name": "rechteckige Platten",
+                        "children": [
+                          {
+                            "name": "Gneiss",
+                            "children": [
+                              {
+                                "name": "allseitig bruchrau",
+                                "children": [
+                                  {
+                                    "name": "Format",
+                                    "children": [
+                                      {
+                                        "name": "scharfkantig",
+                                        "children": [
+                                          {
+                                            "name": "neue Steine",
+                                            "children": [
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kanten gebrochen",
+                                            "children": [
+                                              {
+                                                "name": "neue Steine",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kanten gefast",
+                                            "children": [
+                                              {
+                                                "name": "neue Steine",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite bruchrau, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "scharfkantig",
+                                        "children": [
+                                          {
+                                            "name": "neue Steine",
+                                            "children": [
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kanten gebrochen",
+                                            "children": [
+                                              {
+                                                "name": "neue Steine",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          },
+                                          {
+                                            "name": "Kanten gefast",
+                                            "children": [
+                                              {
+                                                "name": "neue Steine",
+                                                "children": []
+                                              },
+                                              {
+                                                "name": "gebrauchte Steine",
+                                                "children": []
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite gesägt und aufgeraut, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "geflammt",
+                                        "children": [
+                                          {
+                                            "name": "Format",
+                                            "children": [
+                                              {
+                                                "name": "scharfkantig",
+                                                "children": [
+                                                  {
+                                                    "name": "neue Steine",
+                                                    "children": []
+                                                  },
+                                                  {
+                                                    "name": "gebrauchte Steine",
+                                                    "children": []
+                                                  }
+                                                ]
+                                              }
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "name": "gestockt",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "geschliffen",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "schariert",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Gebundene Bauweise",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Betonplatten",
+            "children": [
+              {
+                "name": "Ungebundene Bauweise",
+                "children": [
+                  {
+                    "name": "Fugenbild",
+                    "children": [
+                      {
+                        "name": "Verkehrlastklasse",
+                        "children": [
+                          {
+                            "name": "rechteckige Platten",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Platten",
+                                "children": [
+                                  {
+                                    "name": "Produkt",
+                                    "children": [
+                                      {
+                                        "name": "Format",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "wasserdurchlässige Platten",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Mischbauweise",
+                "children": []
+              },
+              {
+                "name": "Gebundene Bauweise",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pflasterbeläge",
+        "children": [
+          {
+            "name": "Natursteinpflästerungen",
+            "children": [
+              {
+                "name": "Ungebundene Bauweise",
+                "children": [
+                  {
+                    "name": "Bogenpfästerung",
+                    "children": [
+                      {
+                        "name": "Verkehrslastklasse ZP",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 6/8",
+                            "children": [
+                              {
+                                "name": "Gneiss",
+                                "children": [
+                                  {
+                                    "name": "allseitig bruchrau",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite bruchrau, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite gesägt und aufgeraut, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Granit",
+                                "children": [
+                                  {
+                                    "name": "allseitig bruchrau",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite bruchrau, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite gesägt und aufgeraut, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Quarzsandstein",
+                                "children": [
+                                  {
+                                    "name": "allseitig bruchrau",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite bruchrau, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite gesägt und aufgeraut, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Porphyr",
+                                "children": [
+                                  {
+                                    "name": "allseitig bruchrau",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite bruchrau, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Oberseite gesägt und aufgeraut, Rest gesägt",
+                                    "children": [
+                                      {
+                                        "name": "neue Steine",
+                                        "children": []
+                                      },
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "Basalt",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Pflasterstein Typ 8/11",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 11/13",
+                            "children": []
+                          },
+                          {
+                            "name": "Flusswackenstein",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse TL",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 6/8",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 8/11",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 11/13",
+                            "children": []
+                          },
+                          {
+                            "name": "Flusswackenstein",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T1",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 6/8",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 8/11",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 11/13",
+                            "children": []
+                          },
+                          {
+                            "name": "Flusswackenstein",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T2",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 8/11",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 11/13",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 14/16",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 8/11",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 11/13",
+                            "children": []
+                          },
+                          {
+                            "name": "Pflasterstein Typ 14/16",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T4",
+                        "children": [
+                          {
+                            "name": "Pflasterstein Typ 14/16",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Reihenpflästerung",
+                    "children": []
+                  },
+                  {
+                    "name": "Kreispflästerung",
+                    "children": []
+                  },
+                  {
+                    "name": "Fischgrätpflästerung",
+                    "children": []
+                  },
+                  {
+                    "name": "Wildpflästerung",
+                    "children": []
+                  },
+                  {
+                    "name": "Schuppenpflästerung",
+                    "children": []
+                  },
+                  {
+                    "name": "Ornatmentpflästerung",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Mischbauweise",
+                "children": []
+              },
+              {
+                "name": "Gebundene Bauweise",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Kunststeinpflästerungen",
+            "children": [
+              {
+                "name": "ungebundene Bauweise",
+                "children": [
+                  {
+                    "name": "Steindicke 40mm",
+                    "children": [
+                      {
+                        "name": "wasserundurchlässige Steine",
+                        "children": [
+                          {
+                            "name": "Betonsteine",
+                            "children": [
+                              {
+                                "name": "Produkt",
+                                "children": [
+                                  {
+                                    "name": "neue Steine",
+                                    "children": [
+                                      {
+                                        "name": "gebrauchte Steine",
+                                        "children": []
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": [
+                                      {
+                                        "name": "Produkt",
+                                        "children": [
+                                          {
+                                            "name": "neue Steine",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "gebrauchte Steine",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Steindicke 60mm",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "wasserdurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Steindicke 80mm",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "wasserdurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse TL",
+                        "children": [
+                          {
+                            "name": "Steindicke 40mm",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": [
+                                      {
+                                        "name": "Produkt",
+                                        "children": [
+                                          {
+                                            "name": "neue Steine",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "gebrauchte Steine",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": [
+                                      {
+                                        "name": "Produkt",
+                                        "children": [
+                                          {
+                                            "name": "neue Steine",
+                                            "children": []
+                                          },
+                                          {
+                                            "name": "gebrauchte Steine",
+                                            "children": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Steindicke 60mm",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "wasserdurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "name": "Steindicke 80mm",
+                            "children": [
+                              {
+                                "name": "wasserundurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  },
+                                  {
+                                    "name": "Klinker",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "name": "wasserdurchlässige Steine",
+                                "children": [
+                                  {
+                                    "name": "Betonsteine",
+                                    "children": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T1",
+                        "children": [
+                          {
+                            "name": "Steindicke 80mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 100mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 120mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 140mm",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T2",
+                        "children": [
+                          {
+                            "name": "Steindicke 80mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 100mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 120mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 140mm",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T3",
+                        "children": [
+                          {
+                            "name": "Steindicke 80mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 100mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 120mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 140mm",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Verkehrslastklasse T4",
+                        "children": [
+                          {
+                            "name": "Steindicke 160mm",
+                            "children": []
+                          },
+                          {
+                            "name": "Steindicke 180mm",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Kreuzfuge",
+                    "children": []
+                  },
+                  {
+                    "name": "Verbund",
+                    "children": []
+                  },
+                  {
+                    "name": "Fugenbild Hersteller",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ungebundene Beläge",
+        "children": [
+          {
+            "name": "Kiesbeläge",
+            "children": []
+          },
+          {
+            "name": "wassergebundene Beläge",
+            "children": [
+              {
+                "name": "Chaussierungen",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "begrünte Beläge",
+        "children": [
+          {
+            "name": "Rasengittersteine",
+            "children": [
+              {
+                "name": "Betonrasengitter",
+                "children": []
+              },
+              {
+                "name": "Rasengitterplatten aus Kunststoff",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Schotterrasen",
+            "children": []
+          },
+          {
+            "name": "Rasenfugenpflaster",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Festkiesbeläge",
+        "children": []
+      },
+      {
+        "name": "Holzbeläge",
+        "children": [
+          {
+            "name": "Terrassendielen",
+            "children": []
+          },
+          {
+            "name": "Holzpflaster",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Spiel- und Sportbeläge",
+        "children": [
+          {
+            "name": "PUR-Beläge",
+            "children": [
+              {
+                "name": "wasserdurchlässig",
+                "children": []
+              },
+              {
+                "name": "nicht wasserdurchlässig",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Spritzbeschichtete Beläge",
+            "children": [
+              {
+                "name": "wasserdurchlässig",
+                "children": []
+              },
+              {
+                "name": "nicht wasserdurchlässig",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Fallschutzbeläge",
+            "children": [
+              {
+                "name": "gebunden",
+                "children": [
+                  {
+                    "name": "fugenlos",
+                    "children": [
+                      {
+                        "name": "Granulat",
+                        "children": [
+                          {
+                            "name": "Gummihackschnitzel",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Fallschutzplatten",
+                        "children": [
+                          {
+                            "name": "Vollgummiplatten",
+                            "children": []
+                          },
+                          {
+                            "name": "Gummivorsatz",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Korkfallschutzbelag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "ungebunden",
+                "children": [
+                  {
+                    "name": "Kies 8/16",
+                    "children": []
+                  },
+                  {
+                    "name": "Sand 0.5/2",
+                    "children": []
+                  },
+                  {
+                    "name": "Rindenmulch",
+                    "children": []
+                  },
+                  {
+                    "name": "Holzhackschnitzel",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Kunststoffrasen",
+            "children": [
+              {
+                "name": "unverfüllt",
+                "children": []
+              },
+              {
+                "name": "verfüllt",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Grünflächen",
+    "children": [
+      {
+        "name": "Rasenflächen",
+        "children": [
+          {
+            "name": "Gebrauchsrasen",
+            "children": []
+          },
+          {
+            "name": "Sportrasen",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Wiesenflächen",
+        "children": []
+      },
+      {
+        "name": "Pflanzflächen",
+        "children": [
+          {
+            "name": "Dauerbepflanzungen",
+            "children": [
+              {
+                "name": "Stauden",
+                "children": []
+              },
+              {
+                "name": "Bodendecker",
+                "children": []
+              },
+              {
+                "name": "Geophyten",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wechselbepflanzungen",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wasserflächen",
+    "children": [
+      {
+        "name": "natürlich gestaltet",
+        "children": [
+          {
+            "name": "Teiche",
+            "children": []
+          },
+          {
+            "name": "Wasserläufe",
+            "children": []
+          },
+          {
+            "name": "Retentionsmulden",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "künstlich",
+        "children": [
+          {
+            "name": "Wasserbecken",
+            "children": []
+          },
+          {
+            "name": "Schwimmbäder",
+            "children": []
+          },
+          {
+            "name": "Schwimmteiche",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gehölzpflanzungen",
+    "children": [
+      {
+        "name": "Bäume",
+        "children": [
+          {
+            "name": "Laubbäume",
+            "children": []
+          },
+          {
+            "name": "Nadelbäume",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sträucher",
+        "children": [
+          {
+            "name": "immergrün",
+            "children": []
+          },
+          {
+            "name": "wechselgrün",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Hecken",
+        "children": [
+          {
+            "name": "Formhecken",
+            "children": []
+          },
+          {
+            "name": "Wildhecken",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Treppenanlagen",
+    "children": [
+      {
+        "name": "Blockstufen",
+        "children": [
+          {
+            "name": "Beton",
+            "children": [
+              {
+                "name": "Vollstufen",
+                "children": [
+                  {
+                    "name": "Farbe",
+                    "children": [
+                      {
+                        "name": "gestrahlt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "schalungsglatt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Hohlblockstufen",
+                "children": [
+                  {
+                    "name": "Farbe",
+                    "children": [
+                      {
+                        "name": "gestrahlt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "schalungsglatt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Naturstein",
+            "children": [
+              {
+                "name": "Gesteinsart",
+                "children": [
+                  {
+                    "name": "allseitig gebrochen",
+                    "children": []
+                  },
+                  {
+                    "name": "2 Seiten gebrochen, rest gesägt",
+                    "children": []
+                  },
+                  {
+                    "name": "allseitig gesägt",
+                    "children": [
+                      {
+                        "name": "gestockt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "geschliffen",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "geflammt",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "schariert",
+                        "children": [
+                          {
+                            "name": "scharfkantig",
+                            "children": []
+                          },
+                          {
+                            "name": "gefast",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Holz",
+            "children": [
+              {
+                "name": "Holzart",
+                "children": [
+                  {
+                    "name": "sägerau",
+                    "children": [
+                      {
+                        "name": "behandelt",
+                        "children": []
+                      },
+                      {
+                        "name": "unbehandelt",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "gehobelt",
+                    "children": [
+                      {
+                        "name": "behandelt",
+                        "children": []
+                      },
+                      {
+                        "name": "unbehandelt",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Winkelstufen",
+        "children": [
+          {
+            "name": "Beton",
+            "children": [
+              {
+                "name": "Farbe",
+                "children": [
+                  {
+                    "name": "gestrahlt",
+                    "children": [
+                      {
+                        "name": "scharfkantig",
+                        "children": []
+                      },
+                      {
+                        "name": "gefast",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "schalungsglatt",
+                    "children": [
+                      {
+                        "name": "scharfkantig",
+                        "children": []
+                      },
+                      {
+                        "name": "gefast",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stellstufen",
+        "children": [
+          {
+            "name": "Beton",
+            "children": [
+              {
+                "name": "Trittfläche ausbetoniert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche asphaltiert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche ausgepflastert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche chaussiert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Plattenbelag",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Festkies",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Vegetation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Naturstein",
+            "children": [
+              {
+                "name": "Trittfläche ausbetoniert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche asphaltiert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche ausgepflastert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche chaussiert",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Plattenbelag",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Festkies",
+                "children": []
+              },
+              {
+                "name": "Trittfläche Vegetation",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Holz",
+            "children": []
+          },
+          {
+            "name": "Gummibord",
+            "children": []
+          },
+          {
+            "name": "Metallkante",
+            "children": [
+              {
+                "name": "Stahl roh",
+                "children": []
+              },
+              {
+                "name": "Stahl behandelt",
+                "children": []
+              },
+              {
+                "name": "Edelstahl",
+                "children": []
+              },
+              {
+                "name": "Aluminium",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Betonfertigtreppen",
+        "children": [
+          {
+            "name": "bekleidet",
+            "children": [
+              {
+                "name": "Vorsatz mit Natursteinplatten",
+                "children": []
+              },
+              {
+                "name": "Vorsatz mit Kunststeinplatten",
+                "children": []
+              },
+              {
+                "name": "Vorsatz mit Hartbeton",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "unbekleidet",
+            "children": [
+              {
+                "name": "Oberfläche Konsruktionsktionsbeton",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
